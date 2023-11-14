@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Dasara:
+=======
+
+>>>>>>> c88b69a108ff76c6424291d44a857adb13dadbdf
 Dasara was largely celebrated on October 5; in 2023 it falls 19 days later on October 24.
